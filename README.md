@@ -1,4 +1,4 @@
-# แดชบอร์ดวิเคราะห์ตลาดและพยากรณ์ด้วย AI
+# S&P500 Stock Prediction
 
 Term Project — AI Engineer ภาคเรียนที่ 2  
 การวิเคราะห์ข้อมูลและฝึกโมเดล Time-Series ด้วย AutoGluon
